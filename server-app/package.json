@@ -1,0 +1,11 @@
+{
+  "name": "server-app",
+  "version": "1.0.0",
+  "description": "data aggregrator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}
